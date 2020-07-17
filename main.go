@@ -1,9 +1,10 @@
 package main
 
 import (
+	"github.com/krlosj360/twitterproject/bd"
+	"github.com/krlosj360/twitterproject/handlers"
 	"log"
-	"twitterproject/bd"
-	"twitterproject/handlers"
+
 )
 
 func main(){
