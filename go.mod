@@ -1,4 +1,4 @@
-module github.com/krlosj360/TwitterProject
+module github.com/krlosj360/twitterproject
 
 go 1.14
 
